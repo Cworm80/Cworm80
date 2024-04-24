@@ -2,7 +2,7 @@
 
 <h2>Cybersecurty Projects</h2>
 - <b> Setup a Active Directory</b> <br>
-- <b>?</b> <br>
+- <b> Setup a Azure SIEM </b> <br>
 - <b>?</b>
 
 <h2>Programming Projects</h2>
