@@ -2,21 +2,6 @@
 
 <h2>Cybersecurty Projects</h2>
 - <b> Setup a Active Directory</b> https://github.com/Cworm80/Active-Directory <br>
-- <b> Setup a Azure SIEM </b> <br>
-- <b>?</b>
-
-<h2>Programming Projects</h2>
--<b>Bash Script</b> <br>
--?
-<br>
--?
-<br>
--<b>Python Script</b> <br>
--?
-<br>
--?
-<h2>Pentest Projects</h2>
-- <b>?</b> <br>
 
 
 <h2>Certification</h2>
