@@ -2,6 +2,8 @@
 
 <h2>Cybersecurty Projects</h2>
 - <b> Setup a Active Directory</b> https://github.com/Cworm80/Active-Directory <br>
+- <b> Replacing a Motherbord</b> [Replace Mother board.docx](https://github.com/user-attachments/files/15550975/Replace.Mother.board.docx)
+<br>
 
 
 <h2>Certification</h2>
